@@ -45,7 +45,7 @@ function App() {
     <p className="card__description">El Potus es una planta que irradia fortaleza, por lo que ayuda a revitalizar cualquier espacio según el Feng Shui. </p>
   </div>
 </div>
-
+<div className="loaderBar"></div>
 
 </>
   )
